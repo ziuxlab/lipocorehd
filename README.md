@@ -1,5 +1,6 @@
 # Laravel PHP Framework
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a3f893025150421592c7fc9b9d362553)](https://www.codacy.com/app/ziuxlab/lipocorehd?utm_source=github.com&utm_medium=referral&utm_content=ziuxlab/lipocorehd&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
