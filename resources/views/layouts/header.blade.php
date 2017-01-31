@@ -9,7 +9,7 @@
                 </button>
 
                 <div class="lognav">
-                    <a href="/es"> <img src="{{url('images/logotestab.png')}}"  class="mt50px width200px" alt="logo-testabolichd" title="Logo lipocore"> </a>
+                    <a href="/es"> <img src="{{url('images/logolipocore.png')}}"  class="mt50px width200px" alt="logo-testabolichd" title="Logo lipocore"> </a>
                 </div>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
