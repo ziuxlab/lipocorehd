@@ -29,7 +29,7 @@ class inicioController extends Controller
     {
 
         SEO::setTitle('LIPOCORE HD - The best fat burner');
-        SEO::setDescription('LIPOCORE HD is the ultimate formula for winning the war against fat.');
+        SEO::setDescription('LIPOCORE HD ™ is the ultimate formula for winning the war against fat.');
         SEO::setCanonical('https://lipocorehd.com');
         SEO::addImages(['url' => 'http://image.url.com/cover.jpg']);
         SEO::opengraph()->addProperty('type', 'articles');
